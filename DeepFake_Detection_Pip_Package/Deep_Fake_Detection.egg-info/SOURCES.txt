@@ -1,0 +1,11 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+Deep_Fake_Detection.egg-info/PKG-INFO
+Deep_Fake_Detection.egg-info/SOURCES.txt
+Deep_Fake_Detection.egg-info/dependency_links.txt
+Deep_Fake_Detection.egg-info/top_level.txt
+deepfake_detection/DeepFake_Utils.py
+deepfake_detection/__init__.py

@@ -1,0 +1,3 @@
+include deepfake_detection/*.whl
+include deepfake_detection/*.pth
+include deepfake_detection/*.npy
